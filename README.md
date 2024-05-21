@@ -1,0 +1,1 @@
+This is the repository for the NAACL 2024 paper [Automatic Generation of Model and Data Cards: A Step Towards Responsible AI](https://arxiv.org/abs/2405.06258). The data and code will be published soon!
