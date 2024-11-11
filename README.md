@@ -3,6 +3,7 @@
 This paper has been accepted to NAACL 2024 Main as Oral.
 - Arxiv: https://arxiv.org/abs/2405.06258
 - ACL Anthhology: https://aclanthology.org/2024.naacl-long.110/
+- CardBench Dataset: https://huggingface.co/datasets/Jerry999/CardBench
 
 ## Dataset
 
